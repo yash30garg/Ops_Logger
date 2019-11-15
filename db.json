@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": " Ops panel is up and running",
+      "attention": false,
+      "tech": "Yomesh Gupta",
+      "date": "2019-10-07T14:01:57.240Z"
+    },
+    {
+      "id": 4,
+      "message": "Reporting is down",
+      "attention": true,
+      "tech": "Zahin Omar Alwa",
+      "date": "2019-05-31T19:57:35.544Z"
+    },
+    {
+      "id": 5,
+      "message": "Ops panel is up and unnin",
+      "attention": false,
+      "tech": "Yomesh Gupta",
+      "date": "2019-10-18T11:00:12.984Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Ravi",
+      "lastName": "Jagga",
+      "id": 2
+    },
+    {
+      "firstName": "Zahin Omar",
+      "lastName": "Alwa",
+      "id": 3
+    },
+    {
+      "firstName": "Yash",
+      "lastName": "Garg",
+      "id": 4
+    },
+    {
+      "firstName": "Vijay",
+      "lastName": "Kumar",
+      "id": 5
+    }
+  ]
+}
